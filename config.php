@@ -1,7 +1,7 @@
 <?php
-$servername = "10.200.1.117";
-$username = "Linje5";
-$password = "Enzo";
+$servername = "10.200.1.108";
+$username = "root";
+$password = "Admin";
 $dbname = "BotDB";
 
 // koble til databasen
